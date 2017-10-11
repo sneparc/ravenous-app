@@ -3,7 +3,7 @@ import './Business.css';
 
 
 
-class Business extends React.Component{
+export class Business extends React.Component{
 	render(){
 	return (
 				<div className="Business">
